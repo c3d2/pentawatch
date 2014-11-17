@@ -1,0 +1,9 @@
+This is an attempt on a bill of materials. The list below is unordered.
+
+Part			Amps active	Amps power down
+---------------------------------------------------------------------------------------------
+IVL2-7/5		?		?
+ATMEGA88-20MU		250µA(15µA)	0,1µA
+M41T62Q6F		35µA		350nA
+Keystone 92		srsly?
+MAX6920AWP+		max 700µA	200µA

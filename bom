@@ -1,0 +1,9 @@
+This is an attempt on a bill of materials. The list below is unordered.
+
+Part			Description	Supply	Link
+---------------------------------------------------------------------------------------------
+IVL2-7/5		VFD-Tube	ebay	http://www.ebay.de/sch/i.html?_odkw=IVL2-7%2F5&LH_PrefLoc=2&_from=R40&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0&_nkw=IVL2-7%2F5&_sacat=0
+ATMEGA88-20MU		Microkontroller	mouser	http://www.mouser.de/ProductDetail/Atmel/ATmega88-20MU/?qs=sGAEpiMZZMvqv2n3s2xjsVIKSdqlAUq69bU1p%252bP7yH0%3d
+M41T62Q6F		RTC		mouser	http://www.mouser.de/ProductDetail/STMicroelectronics/M41T62Q6F/?qs=%2fha2pyFadug21pSLng2zOncDmjD3%252bNCoZnuV3vU5OLw%3d ?!!? Has no integrated quartz
+Keystone 92		Battery clip	mouser	http://www.mouser.de/ProductDetail/Keystone-Electronics/92/?qs=sGAEpiMZZMt13fpse6CWDYVh9FApKpUCF%2fjeT9O8KIw%3d
+MAX6920AWP+		VFD-Driver	mouser	http://www.mouser.de/ProductDetail/Maxim-Integrated/MAX6920AWP+/?qs=sGAEpiMZZMvqFiXb9HkXMnHYX9A51081R9ncCgaCBfI%3d
